@@ -6,3 +6,5 @@ def user_data(*num):
     return total
 
 print(user_data(10,20,90,87))
+
+# * stores args values in container then the container become tuple each value is access using for and operated 
