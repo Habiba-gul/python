@@ -1,0 +1,1 @@
+# intance var use and defined i --init-- ,self
